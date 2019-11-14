@@ -1,0 +1,16 @@
+
+div{
+    height: 100vh;
+    color: white;
+    background-image: linear-gradient(to right bottom,
+    rgb(185, 44, 39,.466),
+    rgba(21,101,192,.466)), 
+    url(media/nature.jpg);
+    text-align: center;
+    height: 100vh;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
