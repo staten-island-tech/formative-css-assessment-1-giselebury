@@ -7,10 +7,22 @@ div{
     rgba(21,101,192,.466)), 
     url(media/nature.jpg);
     text-align: center;
+    background-size: cover;
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
+    
+}
+
+ul{
+    list-style: none;
 }
 
 h1{
     text-transform: uppercase;
+}
+
+img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    height: 200px;
 }
